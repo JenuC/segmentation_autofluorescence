@@ -16,4 +16,4 @@ output of such markings looks like these:
 I have been mitigating this cell-separation problem using two methods
 * get spare cell concentration biologically
 * using ImageJ (combination of wand_tool, selection_tool and thresholding as shown above)
-I wonder if there is already an intelligent segmentation method available to solve this problem?
+as seen, manual segmentation results in unclean single cell data. I wonder if there is already an intelligent segmentation method available to solve this problem?
